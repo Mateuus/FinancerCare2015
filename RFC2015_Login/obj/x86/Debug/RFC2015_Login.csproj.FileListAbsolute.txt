@@ -1,0 +1,12 @@
+c:\users\felipe\documents\visual studio 2010\Projects\RFC2015_Login\RFC2015_Login\bin\Debug\RFC2015_Login.exe
+c:\users\felipe\documents\visual studio 2010\Projects\RFC2015_Login\RFC2015_Login\bin\Debug\RFC2015_Login.pdb
+c:\users\felipe\documents\visual studio 2010\Projects\RFC2015_Login\RFC2015_Login\obj\x86\Debug\RFC2015_Login.Form1.resources
+c:\users\felipe\documents\visual studio 2010\Projects\RFC2015_Login\RFC2015_Login\obj\x86\Debug\RFC2015_Login.Properties.Resources.resources
+c:\users\felipe\documents\visual studio 2010\Projects\RFC2015_Login\RFC2015_Login\obj\x86\Debug\RFC2015_Login.csproj.GenerateResource.Cache
+c:\users\felipe\documents\visual studio 2010\Projects\RFC2015_Login\RFC2015_Login\obj\x86\Debug\RFC2015_Login.exe
+c:\users\felipe\documents\visual studio 2010\Projects\RFC2015_Login\RFC2015_Login\obj\x86\Debug\RFC2015_Login.pdb
+c:\users\felipe\documents\visual studio 2010\Projects\RFC2015_Login\RFC2015_Login\obj\x86\Debug\RFC2015_Login.RegisterChoise.resources
+c:\users\felipe\documents\visual studio 2010\Projects\RFC2015_Login\RFC2015_Login\obj\x86\Debug\RFC2015_Login.RegWithKey.resources
+c:\users\felipe\documents\visual studio 2010\Projects\RFC2015_Login\RFC2015_Login\obj\x86\Debug\RFC2015_Login.RegFinalization.resources
+c:\users\felipe\documents\visual studio 2010\Projects\RFC2015_Login\RFC2015_Login\obj\x86\Debug\RFC2015_Login.Fim.resources
+C:\Users\Felipe\documents\visual studio 2010\Projects\RFC2015_Login\RFC2015_Login\obj\x86\Debug\RFC2015_Login.csprojResolveAssemblyReference.cache
